@@ -8,5 +8,6 @@
   },
   "author": "",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "files": ["src", "types.ts"]
 }
