@@ -1,6 +1,6 @@
 {
   "name": "az-omega-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -9,5 +9,8 @@
   "author": "",
   "license": "MIT",
   "type": "module",
-  "files": ["src", "types.ts"]
+  "files": [
+    "src",
+    "types.ts"
+  ]
 }
