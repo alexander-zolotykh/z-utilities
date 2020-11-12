@@ -1,4 +1,4 @@
-export const debounce = (fn, wait, immediate = true) => {
+export const debounce = (fn, wait, immediate = false) => {
     let immediatelyCalled = false;
     let timerId;
 
