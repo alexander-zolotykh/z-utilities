@@ -1,4 +1,4 @@
-declare module "z-utilites" {
+declare module "az-omega-utilities" {
     /**
      * 
      * @param fn callback
